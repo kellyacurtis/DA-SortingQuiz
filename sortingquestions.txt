@@ -1,0 +1,7 @@
+Heads or Tails?,Heads,Tails,R,G,
+Black or White?,Black,White,S,H,
+Moon or Stars?,Moon,Stars,R,G,
+Left or Right?,Left,Right,S,H,
+Dawn or Dusk?,Dawn,Dusk,R,S,
+Forest or River?,Forest,River,G,H,
+END,
